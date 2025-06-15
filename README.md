@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on startopia.in<br>i am backend dev<br>i have won 4x hackthons<br>i have 3 month internship in django backend dev<br>
+I am currently working on startopia.in<br>i am backend dev<br>i have won 4x hackthons<br>i had done 3 month internship in django backend dev<br>
 
 
 ## 🌐 Socials:
